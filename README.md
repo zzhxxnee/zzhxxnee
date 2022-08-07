@@ -1,7 +1,7 @@
 <div align="center">
 </br>
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=ฅ^•ﻌ•^ฅ&fontSize=50&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=egg&color=black&height=250&section=header&fontSize=50)
 </br></br></br>
 # Hi there👋 I'm Jihyun Lee😝
 Currently working on app frontend and backend (using NodeJS and React). 
@@ -9,13 +9,13 @@ Currently working on app frontend and backend (using NodeJS and React).
 Recently, start learning NodeJS ❤️
 
 </br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=zzhxxnee&row=2&column=3&margin-w=15&margin-h=15&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zzhxxnee&row=2&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </br></br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhxxnee&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhxxnee&show_icons=true&theme=dark)
 </br></br></br>
   
   
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&)
+![header](https://capsule-render.vercel.app/api?type=shark&color=black&)
 
 ## 🌹 Platforms & Tech 🌹
 
@@ -47,6 +47,6 @@ Recently, start learning NodeJS ❤️
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzhxxnee&count_bg=%237CCCE5&title_bg=%23C8C8C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=footer)
 
 </div>
